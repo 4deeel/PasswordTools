@@ -109,5 +109,5 @@ This Password Management Tool demonstrates the application of programming concep
 
 ## Author
 
-**Muhammad Adeel Haider - 241541**
+**Muhammad Adeel Haider - 241541**  
 BS Cybersecurity – Air University  
