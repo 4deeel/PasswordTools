@@ -1,9 +1,5 @@
 # Password Management Tool
 
-**Name:** Muhammad Adeel Haider  
-**Reg #:** 241541  
-**Course:** Programming Fundamentals  
-
 ---
 
 ## Introduction
@@ -113,5 +109,5 @@ This Password Management Tool demonstrates the application of programming concep
 
 ## Author
 
-**Muhammad Adeel Haider**  
+**Muhammad Adeel Haider - 241541**
 BS Cybersecurity – Air University  
